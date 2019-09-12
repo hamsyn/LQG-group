@@ -18,7 +18,7 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 ### Group Members:
 
-Permanent: _Muxin Han_ 
+Permanent: _[Muxin Han](http://www.physics.fau.edu/people/faculty/han.php)_
 
 PhD Students: _Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song_
 
