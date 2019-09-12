@@ -46,7 +46,7 @@ The group meetings happens in Friday afternoon in SE 330. See [GROUP MEETINGS](h
 
 ### How to Join the Group:
 
-Fudan-FAU Joint Postdoctoral Position in Quantum Gravity
+[Fudan-FAU Joint Postdoctoral Position in Quantum Gravity](https://hamsyn.github.io/LQG-group/fudanfau)
 
 We are able to host Fyodor Lynen Postdoctoral Fellowship of the Humboldt foundation. See [Fyodor Lynen Fellowship](https://www.humboldt-foundation.de/web/lynen-fellowship.html) for details.
 
