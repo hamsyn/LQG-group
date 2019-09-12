@@ -51,4 +51,3 @@ We are able to host Fyodor Lynen Postdoctoral Fellowship of the Humboldt foundat
 For PhD students, please apply officially the graduate fellowships in the Department of Physics at FAU. See [Graduate Admissions](http://www.physics.fau.edu/graduate-admissions/index.php) for details. The GRE Physics Subject score is the most important factor in the PhD student selection. The GRE general score is not required.
 
 ![NSF](https://en.wikipedia.org/wiki/National_Science_Foundation#/media/File:NSF_logo.png) ![FAU](http://www.karbelmultimedia.com/webfau15/images/FAUlogo3.png)
-
