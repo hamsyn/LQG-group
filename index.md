@@ -1,5 +1,6 @@
 Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, USA
 
+&nbsp;
 
 ### Group Research Interests:
 
@@ -17,19 +18,20 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 See [REFERENCES](https://hamsyn.github.io/LQG-group/reference) for some recommended references on quantum gravity.
 
+&nbsp;
 
 ### Group Members:
 
 Permanent: _Muxin Han_
 
-PhD Students: _Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song_
+PhD Students: _Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song, Joseph McKinley_
 
 [Former Group Members](https://hamsyn.github.io/LQG-group/past)
 
 
 <!-- Visitors: _Klaus Liegener, Andrea Dapor, Yuting Hu, Zonghong Zhu, Yongge Ma, Yidun Wan, Hongguang Liu, Zichen He, Ling-Yan Hung, Lingzhen Guo, ......_-->
 
-
+&nbsp;
 
 ### Some Group Events:
 
@@ -41,7 +43,7 @@ The group meetings happens in Friday afternoon in SE 330. See [GROUP MEETINGS](h
 
 [FAUST Seminars](http://www.physics.fau.edu/research/faust/seminar.php)
 
-
+&nbsp;
 
 ### How to Join the Group:
 
@@ -51,7 +53,7 @@ We are able to host Fyodor Lynen Postdoctoral Fellowship of the Humboldt foundat
 
 For PhD students, please apply officially the graduate fellowships in the Department of Physics at FAU. See [Graduate Admissions](http://www.physics.fau.edu/graduate-admissions/index.php) for details. The GRE Physics Subject score is the most important factor in the PhD student selection. The GRE general score is not required.
 
-
+&nbsp;
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" height="100"> <img src="http://www.karbelmultimedia.com/webfau15/images/FAUlogo3.png" height="100">
 
