@@ -24,7 +24,7 @@ Permanent: _Muxin Han_
 
 PhD Students: _Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song_
 
-[Past Group Members](https://hamsyn.github.io/LQG-group/past)
+[Former Group Members](https://hamsyn.github.io/LQG-group/past)
 
 <!-- <span style="color:blue">Past Postdoc: _Antonia Zipfel (now Postdoc at University of Hamburg)_</span> -->
 
