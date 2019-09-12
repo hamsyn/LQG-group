@@ -5,7 +5,7 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 - Loop quantum gravity, spinfoam models, discrete geometry
 
-- Numerical method in loop quantum gravity
+- Numerical methods in loop quantum gravity
 
 - Black holes
 
