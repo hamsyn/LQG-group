@@ -3,17 +3,19 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 ### Group Research Interests:
 
-Loop quantum gravity, spinfoam models, discrete geometry
+- Loop quantum gravity, spinfoam models, discrete geometry
 
-Numerical method in loop quantum gravity
+- Numerical method in loop quantum gravity
 
-Black holes
+- Black holes
 
-Tensor networks and applications to holographic duality and quantum information theory
+- Tensor networks and applications to holographic duality and quantum information theory
 
-Topological quantum field theory
+- Topological quantum field theory
 
-Simulation of quantum gravity with quantum computing
+- Simulation of quantum gravity with quantum computing
+
+See [REFERENCES](https://hamsyn.github.io/LQG-group/reference) for some recommended references on quantum gravity.
 
 
 ### Group Members:
