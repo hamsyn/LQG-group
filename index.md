@@ -1,6 +1,4 @@
-
-
-## 
+## Quantum Gravity and Quantum Information
 
 
 ### Group Research Interests:
