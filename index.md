@@ -30,7 +30,28 @@ Visitors: _Klaus Liegener, Andrea Dapor, Yuting Hu, Zonghong Zhu, Yongge Ma, Yid
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Some Group Events:
+
+The group meetings happens in Friday afternoon in SE 330. See GROUP MEETINGS for information.
+
+[The International Loop Quantum Gravity Seminar (ILQGS)](http://relativity.phys.lsu.edu/ilqgs/).
+
+[Department of Physics Colloquia](http://www.physics.fau.edu/events-news/index.php).
+
+[FAUST Seminars](http://www.physics.fau.edu/research/faust/seminar.php)
+
+
+
+### How to Join the Group:
+
+Fudan-FAU Joint Postdoctoral Position in Quantum Gravity
+
+We are able to host Fyodor Lynen Postdoctoral Fellowship of the Humboldt foundation. See [Fyodor Lynen Fellowship](https://www.humboldt-foundation.de/web/lynen-fellowship.html) for details.
+
+For PhD students, please apply officially the graduate fellowships in the Department of Physics at FAU. See [Graduate Admissions](http://www.physics.fau.edu/graduate-admissions/index.php) for details. The GRE Physics Subject score is the most important factor in the PhD student selection. The GRE general score is not required.
+
+![NSF](src)
+
 
 ### Markdown
 
