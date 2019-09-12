@@ -8,6 +8,3 @@ Muxin Han, Weiming Huang, Yongge Ma, _Fundamental Structure of Loop Quantum Grav
 ### Reviews on Spinfoam Models:
 
 Alejandro Perez, _The new spin foam models and quantum gravity_, [arXiv:1205.0911](https://arxiv.org/abs/1205.0911)
-
-
-
