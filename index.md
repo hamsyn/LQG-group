@@ -52,36 +52,3 @@ For PhD students, please apply officially the graduate fellowships in the Depart
 
 ![NSF](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F7%2F7e%2FNSF_logo.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNational_Science_Foundation&docid=vpssZ8zkti7pNM&tbnid=bUFeS7Yrwr1GnM%3A&vet=10ahUKEwi1zcWmoMrkAhXKtlkKHWroCukQMwg_KAAwAA..i&w=1722&h=1731&client=firefox-b-d&bih=864&biw=1500&q=NSF&ved=0ahUKEwi1zcWmoMrkAhXKtlkKHWroCukQMwg_KAAwAA&iact=mrc&uact=8) ![FAU](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.karbelmultimedia.com%2Fwebfau15%2Fimages%2FFAUlogo3.png&imgrefurl=http%3A%2F%2Fwww.karbelmultimedia.com%2Fwebfau15%2FFAU-Pillars-Platforms-MicrositeV15.html&docid=mZlCPglVJDD3wM&tbnid=wNGTagLREB5AdM%3A&vet=1&w=300&h=150&client=firefox-b-d&bih=864&biw=1500&ved=2ahUKEwjLktLUoMrkAhXFqlkKHXXLAP4QxiAoAXoECAEQFg&iact=c&ictx=1)
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hamsyn/Muxin-Han-s-group/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
