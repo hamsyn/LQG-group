@@ -26,9 +26,6 @@ PhD Students: _Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song_
 
 [Former Group Members](https://hamsyn.github.io/LQG-group/past)
 
-<!-- <span style="color:blue">Past Postdoc: _Antonia Zipfel (now Postdoc at University of Hamburg)_</span> -->
-
-<!-- <span style="color:blue">Past PhD Student: _Zichang Huang (now Postdoc at Fudan Universtiy)_</span> -->
 
 <!-- Visitors: _Klaus Liegener, Andrea Dapor, Yuting Hu, Zonghong Zhu, Yongge Ma, Yidun Wan, Hongguang Liu, Zichen He, Ling-Yan Hung, Lingzhen Guo, ......_-->
 
