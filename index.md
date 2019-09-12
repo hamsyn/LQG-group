@@ -1,6 +1,7 @@
 ## MUxin Han's Loop Quantum Gravity Group
 
-Group Research Interests:
+
+# Group Research Interests:
 
 1. Loop quantum gravity, classical and quantum geometry, discrete geometry, black holes
 
@@ -11,6 +12,19 @@ Group Research Interests:
 4. Topological quantum field theory
 
 5. Simulation of quantum gravity with quantum computing
+
+
+# Group Members:
+
+Permanent: Muxin Han 
+
+PhD Students: Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song
+
+Past Postdoc: Antonia Zipfel (now Postdoc at University of Hamburg)
+
+Past PhD Student: Zichang Huang (now Postdoc at Fudan Universtiy)
+
+Visitors: Klaus Liegener, Andrea Dapor, Yuting Hu, Zonghong Zhu, Yongge Ma, Yidun Wan, Hongguang Liu, Zichen He, Ling-Yan Hung, Lingzhen Guo, ......
 
 
 
