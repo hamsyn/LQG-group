@@ -1,6 +1,18 @@
 ## Muxin Han's Loop Quantum Gravity group 
 
-You can use the [editor on GitHub](https://github.com/hamsyn/Muxin-Han-s-group/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Group Research Interests:
+
+1. Loop quantum gravity, classical and quantum geometry, discrete geometry, black holes
+
+2. AdS/CFT correspondence, and holographic quantum entanglement
+
+3. Tensor networks and applications to holographic duality and quantum information theory
+
+4. Topological quantum field theory
+
+5. Simulation of quantum gravity with quantum computing
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
