@@ -18,13 +18,13 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 ### Group Members:
 
-Permanent: _[Muxin Han](http://www.physics.fau.edu/people/faculty/han.php)_
+Permanent: _Muxin Han_
 
-PhD Students: _[Dongxue Qu](http://www.physics.fau.edu/people/faculty/dongxuequ.php), [Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan, Shicong Song_
+PhD Students: _Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song_
 
-Past Postdoc: _Antonia Zipfel (now Postdoc at University of Hamburg)_
+<span style="color:blue">Past Postdoc: _Antonia Zipfel (now Postdoc at University of Hamburg)_</span>
 
-Past PhD Student: _Zichang Huang (now Postdoc at Fudan Universtiy)_
+<span style="color:blue">Past PhD Student: _Zichang Huang (now Postdoc at Fudan Universtiy)_</span>
 
 Visitors: _Klaus Liegener, Andrea Dapor, Yuting Hu, Zonghong Zhu, Yongge Ma, Yidun Wan, Hongguang Liu, Zichen He, Ling-Yan Hung, Lingzhen Guo, ......_
 
