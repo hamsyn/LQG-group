@@ -18,9 +18,9 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 ### Group Members:
 
-Permanent: <span style="color:blue">_[Muxin Han](http://www.physics.fau.edu/people/faculty/han.php)_ </span>
+Permanent: _[Muxin Han](http://www.physics.fau.edu/people/faculty/han.php)
 
-PhD Students: _Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song_
+PhD Students: _[Dongxue Qu](http://www.physics.fau.edu/people/faculty/dongxuequ.php), [Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan, Shicong Song_
 
 Past Postdoc: _Antonia Zipfel (now Postdoc at University of Hamburg)_
 
@@ -50,7 +50,7 @@ We are able to host Fyodor Lynen Postdoctoral Fellowship of the Humboldt foundat
 
 For PhD students, please apply officially the graduate fellowships in the Department of Physics at FAU. See [Graduate Admissions](http://www.physics.fau.edu/graduate-admissions/index.php) for details. The GRE Physics Subject score is the most important factor in the PhD student selection. The GRE general score is not required.
 
-![NSF](src)
+![FAU](http://www.physics.fau.edu/images/science-biosci.png)
 
 
 
