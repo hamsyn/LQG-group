@@ -24,6 +24,8 @@ Permanent: _Muxin Han_
 
 PhD Students: _Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song_
 
+[Past Group Members](https://hamsyn.github.io/LQG-group/past)
+
 <!-- <span style="color:blue">Past Postdoc: _Antonia Zipfel (now Postdoc at University of Hamburg)_</span> -->
 
 <!-- <span style="color:blue">Past PhD Student: _Zichang Huang (now Postdoc at Fudan Universtiy)_</span> -->
@@ -46,7 +48,7 @@ The group meetings happens in Friday afternoon in SE 330. See [GROUP MEETINGS](h
 
 ### How to Join the Group:
 
-[Fudan-FAU Joint Postdoctoral Position in Quantum Gravity](https://hamsyn.github.io/LQG-group/fudanfau)
+<!-- Fudan-FAU Joint Postdoctoral Position in Quantum Gravity -->
 
 We are able to host Fyodor Lynen Postdoctoral Fellowship of the Humboldt foundation. See [Fyodor Lynen Fellowship](https://www.humboldt-foundation.de/web/lynen-fellowship.html) for details.
 
