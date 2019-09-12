@@ -9,7 +9,7 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 - Black holes
 
-- Tensor networks and applications to holographic duality and quantum information theory
+- Tensor networks and applications to holographic duality and quantum information
 
 - Topological quantum field theory
 
