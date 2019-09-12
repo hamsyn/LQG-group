@@ -34,7 +34,7 @@ PhD Students: _Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song_
 
 ### Some Group Events:
 
-The group meetings happens in Friday afternoon in SE 330. See GROUP MEETINGS for information.
+The group meetings happens in Friday afternoon in SE 330. See [GROUP MEETINGS](https://hamsyn.github.io/LQG-group/meeting) for information.
 
 [The International Loop Quantum Gravity Seminar (ILQGS)](http://relativity.phys.lsu.edu/ilqgs/).
 
