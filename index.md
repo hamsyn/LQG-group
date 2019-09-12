@@ -1,4 +1,4 @@
-## Muxin Han's Loop Quantum Gravity group 
+## 
 
 Group Research Interests:
 
