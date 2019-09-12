@@ -1,4 +1,4 @@
-The following are some recommended references about research in the group:
+The following are some recommended references on quantum gravity:
 
 ### Introductory reviews of Loop Quantum Gravity:
 
