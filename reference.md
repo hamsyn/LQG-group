@@ -4,6 +4,7 @@ The following are two recommended review papers for beginning PhD students to pr
 
 - Alejandro Perez, _The Spin Foam Approach to Quantum Gravity_, [arXiv:1205.2019](https://arxiv.org/abs/1205.2019) (Review on the Spin Foam approach of Loop Quantum Gravity)
 
+&nbsp;
 
 Two other important references for research on LQG:
 
