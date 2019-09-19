@@ -1,3 +1,3 @@
-Former Postdoc: _Antonia Zipfel (now Postdoc at University of Hamburg)_
+Former Postdoc: _Dr. Antonia Zipfel_
 
-Former PhD Student: _Zichang Huang (now Postdoc at Fudan Universtiy)_
+Former PhD Student: _Dr. Zichang Huang_
