@@ -1,6 +1,7 @@
 The location of our group meeting is often in SE 330.
 
 Group meeting schedule:
+
 12/6/2019 vedio lecture "Machine Learning for Physicists-Lecture 12: Neural Network Applications"
 
 11/29/2019 vedio lecture "Machine Learning for Physicists-Lecture 11: Q learning (finished), Restricted Boltzmann Machine"
