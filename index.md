@@ -4,7 +4,7 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 ### Research News:
 
-- **Effective dynamics of Loop Quantum Gravity**: a top-down approach to cosmological singularity resolution, see [details](http://ilqgs.blogspot.com/2019/10/effective-dynamics-from-full-loop.html).
+- **Effective dynamics of Loop Quantum Gravity**: a top-down approach to cosmological singularity resolution, [details](http://ilqgs.blogspot.com/2019/10/effective-dynamics-from-full-loop.html).
 
    [Reference](https://arxiv.org/abs/1910.03763), [ILQGS talk audio+slides](http://relativity.phys.lsu.edu/ilqgs/han100819.mp4).
 
