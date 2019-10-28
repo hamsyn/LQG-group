@@ -51,7 +51,7 @@ The group meetings happens in Friday afternoon in SE 330. See [GROUP MEETINGS](h
 
 We are able to host Fyodor Lynen Postdoctoral Fellowship of the Humboldt foundation. See [Fyodor Lynen Fellowship](https://www.humboldt-foundation.de/web/lynen-fellowship.html) for details.
 
-For PhD students, please apply officially the graduate fellowships in the Department of Physics at FAU. See [Graduate Admissions](http://www.physics.fau.edu/graduate-admissions/index.php) for details. The GRE Physics Subject score is the most important factor in the PhD student selection. The GRE general score is not required. Students whose first language is not English must submit TOEFL scores. FAU requires a minimum TOEFL score of 550 on the paper-based test, or 80 on the internet-based test. FAU also accepts IELTS test results with a minimum score of 6.5. See [here](http://www.fau.edu/admissions/international/requirements.php) for details.
+For PhD students, please apply officially for the graduate fellowships in the Department of Physics at FAU. See [Graduate Admissions](http://www.physics.fau.edu/graduate-admissions/index.php) for details. The GRE Physics Subject score is the most important factor in the PhD student selection. The GRE general score is not required. Students whose first language is not English must submit TOEFL scores. FAU requires a minimum TOEFL score of 550 on the paper-based test, or 80 on the internet-based test. FAU also accepts IELTS test results with a minimum score of 6.5. See [here](http://www.fau.edu/admissions/international/requirements.php) for details.
 
 &nbsp;
 
