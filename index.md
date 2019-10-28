@@ -16,7 +16,7 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 - Simulation of quantum gravity with quantum computing
 
-See [REFERENCES](https://hamsyn.github.io/LQG-group/reference) for some recommended references on quantum gravity.
+See [REFERENCES](https://hamsyn.github.io/LQG-group/reference) for some recommended references on Loop Quantum Gravity.
 
 &nbsp;
 
