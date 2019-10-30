@@ -67,5 +67,5 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 &nbsp;
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" height="100"> <img src="http://www.karbelmultimedia.com/webfau15/images/FAUlogo3.png" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" height="100"> <img src="https://hamsyn.github.io/LQG-group/FAUlogo3.png" height="100">
 
