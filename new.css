@@ -245,7 +245,7 @@ header h3 {
     background-attachment:fixed
 }
 #particles-js .particles-js-canvas-el{
-    z-index: 1;
+    z-index: 3;
  position:absolute;
     width:100%;
     height:60vh!important
