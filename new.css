@@ -197,9 +197,21 @@ header h2 {
   letter-spacing: -1px;
 }
 
+
+
+header h3 {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.3;
+  color: white;
+    width:100%;
+  letter-spacing: -1px;
+}
+
+
 #container {
   min-height: 595px;
-  background: transparent url(../title_image.jpg ) 50% 0 no-repeat;
+  background: background-image:url(https://hamsyn.github.io/LQG-group/title_image.jpg);
 }
 
 .inner {
