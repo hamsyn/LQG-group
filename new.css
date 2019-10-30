@@ -230,7 +230,7 @@ header h3 {
 }
 
 #particles-js{
- background-image:url({{site.url}}{{site.baseurl}}/title_image.jpg);
+ background-image:url(https://hamsyn.github.io/LQG-group//title_image.jpg);
     background:#13124a;
     display:flex;
     float:left;
