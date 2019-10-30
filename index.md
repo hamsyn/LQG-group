@@ -30,9 +30,9 @@ See [REFERENCES](https://hamsyn.github.io/LQG-group/reference) for some recommen
 
 ### Group Members:
 
-Permanent: _Muxin Han_
+Permanent: [_Muxin Han_](http://www.physics.fau.edu/people/faculty/han.php)
 
-PhD Students: _Dongxue Qu, Chen-Hung (Tony) Hsiao, Hongwei Tan, Shicong Song, Joseph McKinley_
+PhD Students: _[Dongxue Qu](http://www.physics.fau.edu/people/faculty/dongxuequ.php), [Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan, Shicong Song, Joseph McKinley_
 
 [Former Group Members](https://hamsyn.github.io/LQG-group/past)
 
