@@ -14,15 +14,15 @@
 
   <body>
     <div id="container">	
-        <div class="header">
+        <header>
 	
 	  <div id="particles-js" style="background-image: url('https://yk-liu.github.io/about/Moon.png');background-size: 20%;background-repeat: no-repeat;background-position: 80% 20%;">
-          <h1>
+            <h1>
 		  <span>{{ page.title | default: site.title | default: site.github.repository_name }}</span>
           		<span>{{ page.description | default: site.description | default: site.github.project_tagline }}</span>
-	<\h1>
+	    <\h1>
           <h2>Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, USA</h2>
-        </div>
+        </header>
      <div class="inner">
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
