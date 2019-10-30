@@ -231,12 +231,13 @@ header h3 {
 
 #particles-js{
  background-image:url('https://hamsyn.github.io/LQG-group//title_image.jpg');
-    background:#13124a;
+   background-repeat: no-repeat;
+    background-position: 50% 50%;
     display:flex;
     float:left;
     vertical-align:bottom;
     width:100%;
-    min-height:50vh;
+    min-height:60vh;
     background-repeat:no-repeat;
     background-size:cover;
     background-attachment:fixed
@@ -245,7 +246,7 @@ header h3 {
     z-index: 1;
  position:absolute;
     width:100%;
-    height:50vh!important
+    height:60vh!important
 }
 
 
