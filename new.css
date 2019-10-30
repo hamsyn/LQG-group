@@ -191,7 +191,8 @@ header h2 {
 
 .inner {
   /*width: 620px;*/
-  margin: 0 auto;
+ width: auto;
+  margin: 5em auto;
 }
 
 #container .inner img {
