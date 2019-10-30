@@ -220,6 +220,7 @@ header h2 {
     background-attachment:fixed
 }
 #particles-js .particles-js-canvas-el{
+ position:absolute;
     width:100%!important;
     height:50vh!important
 }
