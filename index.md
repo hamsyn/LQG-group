@@ -1,5 +1,3 @@
-Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, USA
-
 &nbsp;
 
 ### Research News:
