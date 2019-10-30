@@ -211,7 +211,7 @@ header h3 {
 
 #container {
   min-height: 595px;
-  background: background-image:url(https://d2r55xnwy6nx47.cloudfront.net/uploads/2015/04/EntanglementLead_613x343-520x291.jpg);
+  background: background-image:url();
 }
 
 .inner {
@@ -230,6 +230,7 @@ header h3 {
 }
 
 #particles-js{
+ background-image:url({{site.url}}{{site.baseurl}}/title_image.jpg)
     background:#2c67d3;
     display:flex;
     float:left;
