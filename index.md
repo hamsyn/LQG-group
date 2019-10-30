@@ -6,7 +6,7 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 - **Effective dynamics of Loop Quantum Gravity**: a top-down approach to cosmological singularity resolution, see [details](http://ilqgs.blogspot.com/2019/10/effective-dynamics-from-full-loop.html), [preprint](https://arxiv.org/abs/1910.03763), and [ILQGS talk audio+slides](http://relativity.phys.lsu.edu/ilqgs/han100819.mp4).
 
-- **Loop Quantum Gravity on quantum computer**: quantum simulations of quantum geometry and spinfoam amplitude, see [article in Communications Physics](https://www.nature.com/articles/s42005-019-0218-5), [news in Phys.org](https://phys.org/news/2019-10-quantum-spacetime-simulator.html), [环球科学](https://xw.qq.com/cmsid/20191029A0MEB300).
+- **Loop Quantum Gravity on Quantum Computer**: quantum simulations of quantum geometry and spinfoam amplitude, see [article in Communications Physics](https://www.nature.com/articles/s42005-019-0218-5), [news in Phys.org](https://phys.org/news/2019-10-quantum-spacetime-simulator.html), [环球科学](https://xw.qq.com/cmsid/20191029A0MEB300).
 
 &nbsp;
 
