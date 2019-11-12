@@ -1,4 +1,4 @@
-The location of our group meeting is often in SE 330.
+
 
 Group meeting schedule:                                                                                         
 
@@ -9,6 +9,8 @@ Group meeting schedule:
 11/22/2019 video lecture, "Machine Learning for Physicists-Lecture 10: Policy Gradient (continued), Baseline, alphaGo, Q learning"
 
 11/15/2019 video lecture, "Machine Learning for Physicists-Lecture 9: Word Vectors, Reinforcement Learning, REINFORCE"
+
+11/12/2019 zoom internet meeting, "Numerical Code for LQG Effective Dynamics" by Hongguang Liu 
 
 11/8/2019 video lecture, "Machine Learning for Physicists-Lecture 8: Recurrent networks (LSTM)"
 
