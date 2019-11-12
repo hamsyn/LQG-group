@@ -41,7 +41,7 @@ PhD Students: _[Dongxue Qu](http://www.physics.fau.edu/people/faculty/dongxuequ.
 
 ### Some Group Events:
 
-The group meetings happens in Friday afternoon in SE 330. See [GROUP MEETINGS](https://hamsyn.github.io/LQG-group/meeting) for information.
+We have regular group meetings usually on Friday afternoon. See [GROUP MEETINGS](https://hamsyn.github.io/LQG-group/meeting) for information.
 
 [The International Loop Quantum Gravity Seminar (ILQGS)](http://relativity.phys.lsu.edu/ilqgs/).
 
