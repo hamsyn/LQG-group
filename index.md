@@ -24,6 +24,8 @@
 
 See [REFERENCES](https://hamsyn.github.io/LQG-group/reference) for some recommended references on Loop Quantum Gravity.
 
+See [LQG Lectures](https://hamsyn.github.io/LQG-group/lecture) for a series of lectures on Loop Quantum Gravity.
+
 &nbsp;
 
 ### Group Members:
