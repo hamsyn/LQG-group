@@ -1,3 +1,5 @@
+Lecture notes on Loop Quantum Gravity can be found [here](https://github.com/hamsyn/lecture-notes)
+
 [Introduction to Loop Quantum Gravity (圈量子引力)：ADM formalism 1](https://www.youtube.com/watch?v=SBjL8jwz8HE&list=PLuCqn9LTWozzxRyqxUpQv4CM5jTgS0g3v&index=3&t=129s)
 
 [Introduction to Loop Quantum Gravity (圈量子引力)：ADM formalism 2](https://www.youtube.com/watch?v=LbUTizgiupY&list=PLuCqn9LTWozzxRyqxUpQv4CM5jTgS0g3v&index=1)
