@@ -1,5 +1,7 @@
 # Lectures on Loop Quantum Gravity
 
+&nbsp;
+
 Lecturer: Muxin Han
 
 Lecture notes can be found [here](https://github.com/hamsyn/lecture-notes).
