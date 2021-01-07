@@ -2,9 +2,7 @@
 
 ### Research News:
 
-- **Effective dynamics of Loop Quantum Gravity**: a top-down approach to cosmological singularity resolution, see [details](http://ilqgs.blogspot.com/2019/10/effective-dynamics-from-full-loop.html), [preprint](https://arxiv.org/abs/1910.03763), and [ILQGS talk audio+slides](http://relativity.phys.lsu.edu/ilqgs/han100819.mp4).
-
-- **Loop Quantum Gravity on Quantum Computer**: quantum simulations of quantum geometry and spinfoam amplitude, see [article in Communications Physics](https://www.nature.com/articles/s42005-019-0218-5), [news in Phys.org](https://phys.org/news/2019-10-quantum-spacetime-simulator.html), [环球科学](https://xw.qq.com/cmsid/20191029A0MEB300).
+- **Efficient Simulation of Loop Quantum Gravity -- A Scalable Linear-Optical Approach**: Simulations of spinfoam amplitudes with linear optical quantum computing, see [preprint](https://arxiv.org/abs/2003.03414), accepted by [Physical Review Letters](https://journals.aps.org/prl/accepted/f407eY0fD731487fd0a16be19debd8f4692668f78).
 
 &nbsp;
 
@@ -32,7 +30,7 @@ See [LQG Lectures](https://hamsyn.github.io/LQG-group/lecture) for a series of l
 
 Permanent: [_Muxin Han_](http://www.physics.fau.edu/people/faculty/han.php)
 
-PhD Students: _[Dongxue Qu](http://www.physics.fau.edu/people/faculty/dongxuequ.php), [Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan, [Shicong Song](http://www.physics.fau.edu/people/students/shicong-song.php), Joseph McKinley_
+PhD Students: _[Dongxue Qu](http://www.physics.fau.edu/people/faculty/dongxuequ.php), [Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan, [Shicong Song](http://www.physics.fau.edu/people/students/shicong-song.php)
 
 [Former Group Members](https://hamsyn.github.io/LQG-group/past)
 
