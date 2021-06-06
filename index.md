@@ -46,7 +46,7 @@ _[Zichang Huang](https://inspirehep.net/literature?sort=mostrecent&size=25&page=
 
 ### Some Group Events:
 
-We have regular group meetings usually on Friday afternoon. See [GROUP MEETINGS](https://hamsyn.github.io/LQG-group/meeting) for information.
+We have regular group meetings usually on Monday morning. See [GROUP MEETINGS](https://hamsyn.github.io/LQG-group/meeting) for information.
 
 [The International Loop Quantum Gravity Seminar (ILQGS)](http://relativity.phys.lsu.edu/ilqgs/).
 
