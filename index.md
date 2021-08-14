@@ -38,7 +38,7 @@ PhD Students: _[Dongxue Qu](http://www.physics.fau.edu/people/faculty/dongxuequ.
 
 ### Long-term Collaborations:
 
-_[Zichang Huang](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Z.Huang.13) (Postdoc at Fudan Univ.), [Hongguang Liu](https://www.gravity.physik.fau.de/person/hongguang-liu/) (Postdoc at FAU Erlangen), [Cong Zhang](https://www.fuw.edu.pl/people.html?show=395279) (Postdoc at Univ. of Warsaw)_
+_[Zichang Huang](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Z.Huang.13) (Fudan Univ.), [Hongguang Liu](https://www.gravity.physik.fau.de/person/hongguang-liu/) (FAU Erlangen), [Cong Zhang](https://www.fuw.edu.pl/people.html?show=395279) (Univ. of Warsaw)_
 
 <!-- Visitors: _Klaus Liegener, Andrea Dapor, Yuting Hu, Zonghong Zhu, Yongge Ma, Yidun Wan, Hongguang Liu, Zichen He, Ling-Yan Hung, Lingzhen Guo, ......_-->
 
