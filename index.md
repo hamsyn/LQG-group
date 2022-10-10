@@ -32,7 +32,7 @@ Permanent: _[Muxin Han](http://www.physics.fau.edu/people/faculty/han.php) (Asso
 
 Postdoc: _Qiaoyin Pan_
 
-PhD Students: _[Dongxue Qu](http://www.physics.fau.edu/people/faculty/dongxuequ.php), [Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan, [Shicong Song](http://www.physics.fau.edu/people/students/shicong-song.php), Yingjie Wang_
+PhD Students: _[Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan, [Shicong Song](http://www.physics.fau.edu/people/students/shicong-song.php), Yingjie Wang_
 
 [Former Students and Postdocs](https://hamsyn.github.io/LQG-group/past)
 
@@ -40,7 +40,7 @@ PhD Students: _[Dongxue Qu](http://www.physics.fau.edu/people/faculty/dongxuequ.
 
 ### Long-term Collaborations:
 
-_[Zichang Huang](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Z.Huang.13) (Fudan Univ.), [Hongguang Liu](https://www.gravity.physik.fau.de/person/hongguang-liu/) (FAU Erlangen), [Cong Zhang](https://www.fuw.edu.pl/people.html?show=395279) (Univ. of Warsaw)_
+_[Kristina Giesel](http://www.gravity.physik.fau.de/person/kristina-giesel/), [Zichang Huang](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Z.Huang.13) (Fudan Univ.), [Hongguang Liu](https://www.gravity.physik.fau.de/person/hongguang-liu/) (FAU Erlangen), [Cong Zhang](https://www.fuw.edu.pl/people.html?show=395279) (FAU Erlangen), [Dongxue Qu](https://perimeterinstitute.ca/people/dongxue-qu) (Perimeter Institute)_
 
 <!-- Visitors: _Klaus Liegener, Andrea Dapor, Yuting Hu, Zonghong Zhu, Yongge Ma, Yidun Wan, Hongguang Liu, Zichen He, Ling-Yan Hung, Lingzhen Guo, ......_-->
 
