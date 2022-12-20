@@ -74,5 +74,5 @@ Department of Physics, Florida Atlantic University (FAU), Boca Raton, FL 33431, 
 
 &nbsp;
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" height="100"> <img src="https://assets.humboldt-foundation.de/images/AvH-Logo.svg" height="100"> <img src="https://hamsyn.github.io/LQG-group/FAUlogo3.png" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/NSF_logo.png" height="100"> <img src="[https://assets.humboldt-foundation.de/images/AvH-Logo.svg](https://www.humboldt-foundation.de/dest/images/AvH-Logo.svg)" height="100"> <img src="https://hamsyn.github.io/LQG-group/FAUlogo3.png" height="100">
 
