@@ -1,10 +1,5 @@
 &nbsp;
 
-### Research News:
-
-- **Efficient Simulation of Loop Quantum Gravity -- A Scalable Linear-Optical Approach**: Simulations of spinfoam amplitudes with linear optical quantum computing, published in [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.020501).
-
-&nbsp;
 
 ### Group Research Interests:
 
