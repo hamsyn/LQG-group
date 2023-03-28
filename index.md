@@ -35,7 +35,7 @@ PhD Students: _[Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/facult
 
 ### Long-term Collaborations:
 
-_[Kristina Giesel](http://www.gravity.physik.fau.de/person/kristina-giesel/) (FAU Erlangen), [Zichang Huang](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Z.Huang.13) (Fudan Univ.), [Hongguang Liu](https://www.gravity.physik.fau.de/person/hongguang-liu/) (FAU Erlangen), [Cong Zhang](https://www.fuw.edu.pl/people.html?show=395279) (FAU Erlangen), [Dongxue Qu](https://perimeterinstitute.ca/people/dongxue-qu) (Perimeter Institute)_
+_[Kristina Giesel](http://www.gravity.physik.fau.de/person/kristina-giesel/) (FAU Erlangen), [Zichang Huang](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Z.Huang.13) (Fudan Univ.), [Hongguang Liu](https://www.gravity.physik.fau.de/person/hongguang-liu/) (FAU Erlangen), [Cong Zhang](https://www.fuw.edu.pl/people.html?show=395279) (FAU Erlangen), [Dongxue Qu](https://perimeterinstitute.ca/people/dongxue-qu) (Perimeter Institute), [Francesca Vidotto] (Western University), [Carlo Rovelli] (Western University)_
 
 <!-- Visitors: _Klaus Liegener, Andrea Dapor, Yuting Hu, Zonghong Zhu, Yongge Ma, Yidun Wan, Hongguang Liu, Zichen He, Ling-Yan Hung, Lingzhen Guo, ......_-->
 
