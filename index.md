@@ -25,7 +25,7 @@ See [LQG Lectures](https://hamsyn.github.io/LQG-group/lecture) for a series of l
 
 Permanent: _[Muxin Han](http://www.physics.fau.edu/people/faculty/han.php) (Associate Professor at FAU)_
 
-Postdoc: _[Qiaoyin Pan](https://www.physics.fau.edu/people/postdocs/qiaoyin-pan.php)_
+Postdoc: _Haida Li, [Qiaoyin Pan](https://www.physics.fau.edu/people/postdocs/qiaoyin-pan.php)_
 
 PhD Students: _[Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan, [Shicong Song](http://www.physics.fau.edu/people/students/shicong-song.php)_
 
