@@ -12,7 +12,7 @@ The student needs to have solid knowledge in 3 core subjects and one of 2 electi
 
 ### Core Subject 1: General Relativity
 
-Manifold and tensor field, metric tensor, covariant derivative, geodesics, curvature and its computation, special relativity, Einstein equation and solutions, Linearized gravity, homogeneous and isotropic cosmology, the Schwarzschild spacetime, Reissner–Nordström spacetime, Kerr-Newman spacetime, black holes, dS and AdS spacetimes, initial value formulation of general relativity, asymptotic flatness, spinors, quantum field theory on curved spacetimes, Hawking and Unruh effects, black hole thermodynamics. Lagrangian and Hamiltonian formulation of gravity
+Manifold and tensor field, metric tensor, covariant derivative, geodesics, curvature and its computation, differential forms, killing field, special relativity, Einstein equation and solutions, Linearized gravity, homogeneous and isotropic cosmology, the Schwarzschild spacetime, Reissner–Nordström spacetime, Kerr-Newman spacetime, black holes, dS and AdS spacetimes, initial value formulation of general relativity, asymptotic flatness, spinors, quantum field theory on curved spacetimes, Hawking and Unruh effects, black hole thermodynamics. Lagrangian and Hamiltonian formulation of gravity
 
 References: 
 
