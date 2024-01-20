@@ -65,7 +65,19 @@ Fuchs J., Schweigert C. Symmetries, Lie algebras and representations (CUP, 1997)
 
 ### Elective Subject 2: Numerical Methods
 
+(1) Root-finding methods: Bisection Method, Newton-Raphson Method, Secant Method; 
+(2) Linear Algebraic Equation Solvers: Gaussian Elimination, LU Decomposition, Iterative Methods; 
+(3) Numerical Integration: Trapezoidal Rule, Simpson's Rule, Gaussian Quadrature; 
+(4) Differential Equations: Euler's Method, Runge-Kutta Methods; Monte Carlo Methods; 
+(5) Fast Fourier Transform (FFT). 
 
+The students can choose C or Python to implement their codes. 
+
+References: 
+
+M. Hjorth-Jensen, "COMPUTATIONAL PHYSICS"
+
+Lecture notes on Computational Physics by Prof. Wolfgang Tichy.
 
 
 &nbsp;
