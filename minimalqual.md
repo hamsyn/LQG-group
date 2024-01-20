@@ -14,11 +14,9 @@ The student needs to have solid knowledge in 3 core subjects and one of 2 electi
 
 Manifold and tensor field, metric tensor, covariant derivative, geodesics, curvature and its computation, differential forms, killing field, special relativity, Einstein equation and solutions, Linearized gravity, homogeneous and isotropic cosmology, the Schwarzschild spacetime, Reissner–Nordström spacetime, Kerr-Newman spacetime, black holes, dS and AdS spacetimes, initial value formulation of general relativity, asymptotic flatness, spinors, quantum field theory on curved spacetimes, Hawking and Unruh effects, black hole thermodynamics. Lagrangian and Hamiltonian formulation of gravity
 
-Main Reference: 
+References: 
 
 R. M. Wald, "General Relativity" Chapters 1-6 and 10-14. Appendix B, C, D, E.
-
-Additional reference:
 
 C. Liang, "Differential Geometry and General Relativity"
 
@@ -27,11 +25,9 @@ C. Liang, "Differential Geometry and General Relativity"
 
 Lagrangian and Hamiltonian Field Theory, Noether's theorem, quantum Klein-Gordon field, quantum Dirac field, quantum Electromagnetic field, interactions and Feynman diagrams, quantum electrodynamics, radiative corrections, functional methods, renormalization, renormalization group, spontaneous symmetry breaking, effective action, nonabelian gauge invariance, basics of Lie algebra, quantization of nonabelian gauge theory, anomalies, Higgs mechanism. 
 
-Main Reference: 
+References: 
 
 M. E. Peskin and D. V. Schroeder, "Introduction to Quantum Field Theory" Chapters 2-7, 9-12, 15, 16, 19.2, 20.1, 20.2.  
-
-Additional Reference:
 
 L. H. Ryder, "Quantum Field Theory"
 
@@ -39,13 +35,11 @@ L. H. Ryder, "Quantum Field Theory"
 
 Lagrangian and Hamiltonian formulations of gravity, ADM formulation, connection formulation, quantum configuration space, cylindrical functions, kinematica Hilbert space, spin-network states, holonomy-flux algebra, area and volume operators, *-algebra and GNS construction, quantum Gauss constraint, intertwiners, solutions of quantum diffeomorphism constraint, quantum Hamiltonian constraint, master constraint, complexifer coherent state, reduced phase space quantization, LQG black hole entropy, EPRL spinfoam model, Loop Quantum Cosmology.
 
-Main Reference:
+References:
 
 M. Han, W. Huang, Y. Ma, "Fundamental Structure of Loop Quantum Gravity", [arXiv:gr-qc/0509064](https://arxiv.org/abs/gr-qc/0509064) Chapters,1-5, 6.1, 6.3, 7.2 
 
 Video lecture [Introduction to Loop Quantum Gravity (圈量子引力)](https://www.youtube.com/playlist?list=PLuCqn9LTWozzxRyqxUpQv4CM5jTgS0g3v)
-
-Additional Reference:
 
 I. Agullo and P. Singh, "Loop Quantum Cosmology: A brief review", [arXiv:1612.01236](https://arxiv.org/abs/1612.01236)
 
