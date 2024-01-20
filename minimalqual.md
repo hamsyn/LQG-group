@@ -8,7 +8,7 @@ The minimal qualification program prepares the graduate students toward being qu
 
 ## The Fundamentals
 
-The students need to have solid knowledge in 3 core subjects and one of 2 elective subjects. The successful candidates needs to pass the exams (the Minimal Qualification Exams), one for each subject. The following lists all the subjects and their examination syllabi.
+The student needs to have solid knowledge in 3 core subjects and one of 2 elective subjects. The successful candidate needs to pass the written exams (the Minimal Qualification Exams), one for each subject. It is allowed that the student focuses on one subject for certain period and takes the exam right after. The following lists all the subjects, examination syllabi, and references.
 
 ### Core Subject 1: General Relativity
 
@@ -71,6 +71,10 @@ Fuchs J., Schweigert C. Symmetries, Lie algebras and representations (CUP, 1997)
 &nbsp;
 
 ## Research Qualification
+
+The student must finish independently at least one research paper. The paper is expected to be published in a leading journal of physics. 
+
+The student will have an oral exam to report the research results. The student's report combined with the results of the written exams will be evaluated by an international committee, which decides the final grade of the student.  
 
 
 
