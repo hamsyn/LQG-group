@@ -67,9 +67,9 @@ For PhD students, please apply officially for the graduate fellowships in the De
 
 Any student needs to fulfill the following requirements in order to become a PhD candidiate in the group:
 
-(1) Pass the qualifying exams of the Physics Departement
+(1) Pass the qualifying exams of the Physics Departement.
 
-(2) Pass the exams and be successful in the [Minimal Qualification Program]
+(2) Fulfill the requirements in the [Minimal Qualification Program](https://hamsyn.github.io/LQG-group/minimalqual).
 
 
 
