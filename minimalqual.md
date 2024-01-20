@@ -8,7 +8,7 @@ The minimal qualification program prepares the graduate students toward being qu
 
 ## The Fundamentals
 
-The student needs to have solid knowledge in 3 core subjects and one of 2 elective subjects. The successful candidate needs to pass the written exams (the Minimal Qualification Exams), one for each subject. It is allowed that the student focuses on one subject for certain period and takes the exam right after. The following lists all the subjects, examination syllabi, and references.
+The student needs to have solid knowledge in 3 core subjects and one of 2 elective subjects. The successful candidate needs to pass the written exams (the Minimal Qualification Exams), one for each subject. It is allowed that the student focuses on one subject for certain period and takes the exam right after. The following lists all the subjects, examination syllabi, and references. Some good online resources may be found in the PSI program (PIRSA video library) at Perimeter Institute for Theoretical Physics
 
 ### Core Subject 1: General Relativity
 
