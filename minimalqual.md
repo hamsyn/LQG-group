@@ -2,7 +2,7 @@
 
 &nbsp;
 
-The minimal qualification program prepares the graduate students toward being qualified for the PhD research and future career in Loop Quantum Gravity. The program includes two aspects: The fundamentals and The research qualification. The students are expected to spend about 2 years in this program, but no more than 3 years.
+The minimal qualification program prepares the graduate students toward being qualified for the PhD research and future career in Loop Quantum Gravity. The program includes two aspects: The fundamentals and The research qualification. The students are expected to finish the qualifications in about 2 years but no more than 3 years.
 
 &nbsp;
 
