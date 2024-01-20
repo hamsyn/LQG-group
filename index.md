@@ -69,7 +69,7 @@ Any student needs to fulfill the following requirements in order to become a PhD
 
 (1) Pass the qualifying exams of the Physics Departement.
 
-(2) Fulfill the requirements in the [Minimal Qualification Program](https://hamsyn.github.io/LQG-group/minimalqual).
+(2) Fulfill the requirements in the [Minimal Qualification Program](https://hamsyn.github.io/LQG-group/minimalqual) starting from 2024.
 
 
 
