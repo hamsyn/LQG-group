@@ -14,7 +14,9 @@ The students need to have solid knowledge in 3 core subjects and one of 2 electi
 Manifold and tensor field, metric tensor, covariant derivative, geodesics, curvature and its computation, special relativity, Einstein equation and solutions, Linearized gravity, homogeneous and isotropic cosmology, the Schwarzschild spacetime, Reissner–Nordström spacetime, Kerr-Newman spacetime, black holes, dS and AdS spacetimes, initial value formulation of general relativity, asymptotic flatness, spinors, quantum field theory on curved spacetimes, Hawking and Unruh effects, black hole thermodynamics. Lagrangian and Hamiltonian formulations of gravity
 
 References: 
+
 R. M. Wald, "General Relativity" Chapters 1-6 and 10-14. Appendix B, C, D, E.
+
 C. Liang, "Differential Geometry and General Relativity"
 
 
