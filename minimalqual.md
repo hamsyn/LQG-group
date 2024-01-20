@@ -18,18 +18,18 @@ Manifold and tensor field, metric tensor, covariant derivative, geodesics, curva
 
 References: 
 
-R. M. Wald, "General Relativity" Chapters 1-6 and 10-14. Appendix B, C, D, E.
+R. M. Wald, "General Relativity" Required Chapters: 1-6 and 10-14, appendix B, C, D, E.
 
-C. Liang, "Differential Geometry and General Relativity"
+One can find the chapters in C. Liang, "Differential Geometry and General Relativity" I, II, III (in Chinese) corresponding to the required chapters in Wald's book, except for spinors and QFT on curved spacetime. There is an appendix on dS abd AdS.
 
 
 ### Core Subject 2: Quantum Field Theory
 
-Lagrangian and Hamiltonian Field Theory, Noether's theorem, quantum Klein-Gordon field, quantum Dirac field, quantum Electromagnetic field, interactions and Feynman diagrams, quantum electrodynamics, radiative corrections, functional methods, renormalization, renormalization group, spontaneous symmetry breaking, effective action, nonabelian gauge invariance, basics of Lie algebra, quantization of nonabelian gauge theory, anomalies, Higgs mechanism. 
+Lagrangian and Hamiltonian Field Theory, Noether's theorem, quantum Klein-Gordon field, quantum Dirac field, quantum Electromagnetic field, interactions and perturbative expansion, Feynman diagrams and Feynman rules, quantum electrodynamics, radiative corrections, Ward identity, functional methods, renormalization, Wilsonian renormalization group, spontaneous symmetry breaking, effective action, nonabelian gauge invariance, basics of Lie algebra, quantization of nonabelian gauge theory, anomalies, Higgs mechanism. 
 
 References: 
 
-M. E. Peskin and D. V. Schroeder, "Introduction to Quantum Field Theory" Chapters 2-7, 9-12, 15, 16, 19.2, 20.1, 20.2.  
+M. E. Peskin and D. V. Schroeder, "Introduction to Quantum Field Theory" Required Chapters: 2-7, 9-12, 15, 16, 19.2, 20.1, 20.2.  
 
 L. H. Ryder, "Quantum Field Theory"
 
@@ -39,9 +39,9 @@ Lagrangian and Hamiltonian formulations of gravity, ADM formulation, connection 
 
 References:
 
-M. Han, W. Huang, Y. Ma, "Fundamental Structure of Loop Quantum Gravity", [arXiv:gr-qc/0509064](https://arxiv.org/abs/gr-qc/0509064) Chapters,1-5, 6.1, 6.3, 7.2 
+M. Han, W. Huang, Y. Ma, "Fundamental Structure of Loop Quantum Gravity", [arXiv:gr-qc/0509064](https://arxiv.org/abs/gr-qc/0509064) Required Chapters,1-5, 6.1, 6.3, 7.2 
 
-Video lecture series: [Introduction to Loop Quantum Gravity (圈量子引力)](https://www.youtube.com/playlist?list=PLuCqn9LTWozzxRyqxUpQv4CM5jTgS0g3v)
+Required video lecture series: [Introduction to Loop Quantum Gravity (圈量子引力)](https://www.youtube.com/playlist?list=PLuCqn9LTWozzxRyqxUpQv4CM5jTgS0g3v)
 
 I. Agullo and P. Singh, "Loop Quantum Cosmology: A brief review", [arXiv:1612.01236](https://arxiv.org/abs/1612.01236)
 
