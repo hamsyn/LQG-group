@@ -39,7 +39,7 @@ Reference:
 
 M. Han, W. Huang, Y. Ma, "Fundamental Structure of Loop Quantum Gravity", [arXiv:gr-qc/0509064](https://arxiv.org/abs/gr-qc/0509064) Chapters,1-5, 6.1, 6.3, 7.2 
 
-[Introduction to Loop Quantum Gravity (圈量子引力)](https://www.youtube.com/playlist?list=PLuCqn9LTWozzxRyqxUpQv4CM5jTgS0g3v)
+Video lecture [Introduction to Loop Quantum Gravity (圈量子引力)](https://www.youtube.com/playlist?list=PLuCqn9LTWozzxRyqxUpQv4CM5jTgS0g3v)
 
 I. Agullo and P. Singh, "Loop Quantum Cosmology: A brief review", [arXiv:1612.01236](https://arxiv.org/abs/1612.01236)
 
