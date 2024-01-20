@@ -25,9 +25,9 @@ See [LQG Lectures](https://hamsyn.github.io/LQG-group/lecture) for a series of l
 
 Permanent: _[Muxin Han](http://www.physics.fau.edu/people/faculty/han.php) (Associate Professor at FAU)_
 
-Postdoc: _Haida Li, [Qiaoyin Pan](https://www.physics.fau.edu/people/postdocs/qiaoyin-pan.php)_
+Postdoc: _[Qiaoyin Pan](https://www.physics.fau.edu/people/postdocs/qiaoyin-pan.php)_
 
-PhD Students: _[Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan, [Shicong Song](http://www.physics.fau.edu/people/students/shicong-song.php)_
+PhD Candidates: _[Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan_
 
 [Former Students and Postdocs](https://hamsyn.github.io/LQG-group/past)
 
@@ -60,6 +60,18 @@ We have regular group meetings usually on Monday morning. See [GROUP MEETINGS](h
 We are able to host Fyodor Lynen Postdoctoral Fellowship of the Humboldt foundation. See [Fyodor Lynen Fellowship](https://www.humboldt-foundation.de/web/lynen-fellowship.html) for details.
 
 For PhD students, please apply officially for the graduate fellowships in the Department of Physics at FAU. See [Graduate Admissions](http://www.physics.fau.edu/graduate-admissions/index.php) for details. The GRE Physics Subject score is the most important factor in the PhD student selection. The GRE general score is not required. Students whose first language is not English must submit TOEFL scores. FAU requires a minimum TOEFL score of 550 on the paper-based test, or 80 on the internet-based test. FAU also accepts IELTS test results with a minimum score of 6.5. See [here](http://www.fau.edu/admissions/international/requirements.php) for details.
+
+&nbsp;
+
+### How to Become a PhD Candidate in the Group:
+
+Any student needs to fulfill the following requirements in order to become a PhD candidiate in the group:
+
+(1) Pass the qualifying exams of the Physics Departement
+
+(2) Pass the exams and be successful in the [Minimal Qualification Program]
+
+
 
 &nbsp;
 
