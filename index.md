@@ -65,11 +65,7 @@ For PhD students, please apply officially for the graduate fellowships in the De
 
 ### How to Become a PhD Candidate in the Group:
 
-Any student needs to fulfill the following requirements in order to become a PhD candidiate in the group:
-
-(1) Pass the qualifying exams of the Physics Departement.
-
-(2) Fulfill the requirements in the [Minimal Qualification Program](https://hamsyn.github.io/LQG-group/minimalqual) starting from 2024.
+The student needs to fulfill the requirements in the [Minimal Qualification Program](https://hamsyn.github.io/LQG-group/minimalqual) starting from 2024.
 
 
 
