@@ -27,7 +27,7 @@ Permanent: _[Muxin Han](http://www.physics.fau.edu/people/faculty/han.php) (Asso
 
 Postdoc: _[Qiaoyin Pan](https://www.physics.fau.edu/people/postdocs/qiaoyin-pan.php)_
 
-PhD Candidates: _[Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan_
+<!-- PhD Candidates: _[Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan_-->
 
 [Former Students and Postdocs](https://hamsyn.github.io/LQG-group/past)
 
