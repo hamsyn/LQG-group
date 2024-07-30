@@ -43,7 +43,7 @@ _[Kristina Giesel](http://www.gravity.physik.fau.de/person/kristina-giesel/) (FA
 
 ### Some Group Events:
 
-We have regular group meetings usually on Monday morning. See [GROUP MEETINGS](https://hamsyn.github.io/LQG-group/meeting) for information.
+<!-- We have regular group meetings usually on Monday morning. See [GROUP MEETINGS](https://hamsyn.github.io/LQG-group/meeting) for information.-->
 
 [The International Loop Quantum Gravity Seminar (ILQGS)](http://relativity.phys.lsu.edu/ilqgs/).
 
