@@ -86,9 +86,9 @@ Lecture notes on Computational Physics by Prof. Wolfgang Tichy.
 
 ## Research Qualification
 
-The student must finish independently at least one research paper. The paper is expected to be published in a leading journal of physics. 
+The student must finish at least one research paper. The paper is expected to be published in a leading journal of physics. 
 
-The student will have an oral exam to report the research results at the end of this program. The student's research paper, oral and written exams will be evaluated by an international committee, which decides the final grade of the student. 
+The student will have an oral exam to report the research results at the end of this program. The student's research paper, oral and written exams will be evaluated by a committee, which decides the final grade of the student. 
 
 
 
