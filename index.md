@@ -29,11 +29,11 @@ See [LQG Lectures](https://hamsyn.github.io/LQG-group/lecture) for a series of l
 
 ### Group Members:
 
-Permanent: _[Chris Beetle](https://www.physics.fau.edu/people/faculty/beetle.php), [Jonathan Engle](https://www.physics.fau.edu/people/faculty/engle.php), [Muxin Han](http://www.physics.fau.edu/people/faculty/han.php), [Yichen Hu], [Warner Miller](https://www.physics.fau.edu/people/faculty/miller.php)_ 
+Permanent: _[Chris Beetle](https://www.physics.fau.edu/people/faculty/beetle.php), [Jonathan Engle](https://www.physics.fau.edu/people/faculty/engle.php), [Muxin Han](http://www.physics.fau.edu/people/faculty/han.php), Yichen Hu, [Warner Miller](https://www.physics.fau.edu/people/faculty/miller.php)_ 
 
 <!-- Postdoc: _[Qiaoyin Pan](https://www.physics.fau.edu/people/postdocs/qiaoyin-pan.php)_-->
 
-PhD Candidates: _[Jeremy Martinon](https://www.physics.fau.edu/people/students/jeremy-martinon.php), [Sean Tobin](https://www.physics.fau.edu/people/students/sean-tobin.php)_-->
+PhD Candidates: _Mishkat alvi, Ian Bornhoeft, [Jeremy Martinon](https://www.physics.fau.edu/people/students/jeremy-martinon.php), [Sean Tobin](https://www.physics.fau.edu/people/students/sean-tobin.php)_
 
 [Former Students and Postdocs](https://hamsyn.github.io/LQG-group/past)
 
