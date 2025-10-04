@@ -9,11 +9,17 @@
 
 - Black holes
 
+- Cosmology
+
 - Tensor networks and applications to holographic duality and quantum information
+
+- Algebraic aspects of quantum gravity and holography
 
 - Topological quantum field theory
 
 - Simulation of quantum gravity with quantum computing
+
+- Topological phase of matter
 
 See [REFERENCES](https://hamsyn.github.io/LQG-group/reference) for some recommended references on Loop Quantum Gravity.
 
@@ -23,11 +29,11 @@ See [LQG Lectures](https://hamsyn.github.io/LQG-group/lecture) for a series of l
 
 ### Group Members:
 
-Permanent: _[Muxin Han](http://www.physics.fau.edu/people/faculty/han.php) (Associate Professor at FAU)_
+Permanent: _[Chris Beetle](https://www.physics.fau.edu/people/faculty/beetle.php), [Jonathan Engle](https://www.physics.fau.edu/people/faculty/engle.php), [Muxin Han](http://www.physics.fau.edu/people/faculty/han.php), [Yichen Hu], [Warner Miller](https://www.physics.fau.edu/people/faculty/miller.php)_ 
 
-Postdoc: _[Qiaoyin Pan](https://www.physics.fau.edu/people/postdocs/qiaoyin-pan.php)_
+<!-- Postdoc: _[Qiaoyin Pan](https://www.physics.fau.edu/people/postdocs/qiaoyin-pan.php)_-->
 
-<!-- PhD Candidates: _[Chen-Hung (Tony) Hsiao](http://www.physics.fau.edu/people/faculty/chen-hunghsiao.php), Hongwei Tan_-->
+PhD Candidates: _[Jeremy Martinon](https://www.physics.fau.edu/people/students/jeremy-martinon.php), [Sean Tobin](https://www.physics.fau.edu/people/students/sean-tobin.php)_-->
 
 [Former Students and Postdocs](https://hamsyn.github.io/LQG-group/past)
 
