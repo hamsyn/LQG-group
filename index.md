@@ -33,7 +33,7 @@ Permanent: _[Chris Beetle](https://www.physics.fau.edu/people/faculty/beetle.php
 
 <!-- Postdoc: _[Qiaoyin Pan](https://www.physics.fau.edu/people/postdocs/qiaoyin-pan.php)_-->
 
-PhD Candidates: _Mishkat alvi, Ian Bornhoeft, [Jeremy Martinon](https://www.physics.fau.edu/people/students/jeremy-martinon.php), [Sean Tobin](https://www.physics.fau.edu/people/students/sean-tobin.php)_
+PhD Candidates: _Mishkat alvi, Ian Bornhoeft, [Jeremy Martinon](https://www.physics.fau.edu/people/students/jeremy-martinon.php), [Sean Tobin](https://www.physics.fau.edu/people/students/sean-tobin.php), [Shicong Song](https://www.physics.fau.edu/people/students/shicong-song.php)_
 
 [Former Students and Postdocs](https://hamsyn.github.io/LQG-group/past)
 
