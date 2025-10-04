@@ -29,7 +29,7 @@ See [LQG Lectures](https://hamsyn.github.io/LQG-group/lecture) for a series of l
 
 ### Group Members:
 
-Permanent: _[Chris Beetle](https://www.physics.fau.edu/people/faculty/beetle.php), [Jonathan Engle](https://www.physics.fau.edu/people/faculty/engle.php), [Muxin Han](http://www.physics.fau.edu/people/faculty/han.php), Yichen Hu, [Warner Miller](https://www.physics.fau.edu/people/faculty/miller.php)_ 
+Permanent: _[Chris Beetle](https://www.physics.fau.edu/people/faculty/beetle.php), [Jonathan Engle](https://www.physics.fau.edu/people/faculty/engle.php), Han Fu, [Muxin Han](http://www.physics.fau.edu/people/faculty/han.php), Yichen Hu, [Warner Miller](https://www.physics.fau.edu/people/faculty/miller.php)_ 
 
 <!-- Postdoc: _[Qiaoyin Pan](https://www.physics.fau.edu/people/postdocs/qiaoyin-pan.php)_-->
 
